@@ -9,6 +9,8 @@ $username = '';
 $password = '';
 //title
 $title = "Bedwars Web Stats"
+//favicon
+$favicon = './images/favicon.png';
 //color (Options will be listed in later update)
 $fontcolor = "default"
 $backgroundcolor = "default"
